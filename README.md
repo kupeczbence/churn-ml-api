@@ -10,8 +10,6 @@ The application exposes a REST API that predicts whether a customer is likely to
 
 API documentation (Swagger UI):
 
-https://churn-api.onrender.com/docs
-
 https://churn-api-a9qg.onrender.com/docs
 
 You can test the model directly in your browser using interactive requests.
