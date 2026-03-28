@@ -246,6 +246,9 @@ Example response:
 }
 ```
 
+<img width="1842" height="880" alt="teszt docker1" src="https://github.com/user-attachments/assets/3826a905-c150-40a1-8f24-32176ca4846a" />
+
+
 ---
 
 # Key Features
