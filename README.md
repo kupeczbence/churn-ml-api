@@ -12,7 +12,7 @@ API documentation (Swagger UI):
 
 https://churn-api.onrender.com/docs
 
-https://churn-api-a9qg.onrender.com
+https://churn-api-a9qg.onrender.com/docs
 
 You can test the model directly in your browser using interactive requests.
 
